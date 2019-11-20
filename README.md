@@ -10,7 +10,8 @@ Wang's Blog
 
 ### 最新
 
-* [世界，你好！](https://www.micronotes.top/hello-solo)
+* [Windows电脑实用工具整理，希望能帮到你](https://www.micronotes.top/articles/2019/11/20/1574216116680.html)
+* [趁着2019年双十一的优惠，购买一台自己的服务器，记录得与失](https://www.micronotes.top/hello-world)
 
 
 
