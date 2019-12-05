@@ -10,6 +10,7 @@ MicroNotes
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.micronotes.top/my-github-repos)
 * [好用的Visual Studio Code和一些插件，希望能帮到你](https://www.micronotes.top/articles/2019/11/29/1575018764343.html)
 * [UnblockNeteaseMusic，一个可以听网易云音乐灰色歌曲的工具，希望能帮到你](https://www.micronotes.top/articles/2019/11/21/1574331066094.html)
 * [很多有用的网站，希望能帮到你](https://www.micronotes.top/articles/2019/11/20/1574243691277.html)
